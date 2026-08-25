@@ -27,4 +27,4 @@ It's aimed at everyday users as much as power users.
 Documentation: https://pc-optimizer-turbo.softonx.xyz
 
 ## ⚠️ Disclaimer
-> This project is shared as-is. All product names and logos belong to their respective owners.             
+> This project is shared as-is. All product names and logos belong to their respective owners.              
